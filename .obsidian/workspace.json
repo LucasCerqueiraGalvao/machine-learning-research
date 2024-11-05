@@ -16,14 +16,34 @@
               "state": {
                 "file": "Organização/Mapa Mental Canvas.canvas",
                 "viewState": {
-                  "x": 424.54160271230364,
-                  "y": 126.5887605560502,
+                  "x": 219.84595053839064,
+                  "y": 107.09393653948706,
                   "zoom": -1.285019226202671
                 }
-              }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Mapa Mental Canvas"
+            }
+          },
+          {
+            "id": "8622eb1ea37c2abd",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Organização/Mapa Mental Canvas.canvas",
+                "viewState": {
+                  "x": 52.5,
+                  "y": -275,
+                  "zoom": -1.3676109102143883
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Mapa Mental Canvas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "33e52dea2ab32f45",
@@ -35,7 +55,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           },
           {
@@ -43,7 +65,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ],
@@ -67,7 +91,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -82,7 +108,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
             }
           },
           {
@@ -90,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -121,7 +151,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Mapa Mental Canvas"
             }
           },
           {
@@ -133,7 +165,9 @@
                 "file": "Organização/Mapa Mental Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Mapa Mental Canvas"
             }
           },
           {
@@ -144,7 +178,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -154,7 +190,9 @@
               "type": "outline",
               "state": {
                 "file": "Organização/Mapa Mental Canvas.canvas"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Mapa Mental Canvas"
             }
           }
         ]
@@ -177,24 +215,25 @@
       "univer:Univer": false
     }
   },
-  "active": "c545780d9a038583",
+  "active": "8622eb1ea37c2abd",
   "lastOpenFiles": [
+    "Planilhas/RNN-previsoes_PETR3_futuro_2024-11-05.xlsx",
+    "Planilhas/RNN-previsoes_PETR3_2024-11-05.xlsx",
+    "Python/predicaoXGBoost.py",
+    "Python/predicaoLSTM.py",
+    "Python/predicaoRNN.py",
+    "Planilhas/~$previsoes_PETR3_2024-11-05.xlsx",
+    "Planilhas/~$previsoes_PETR3_futuro_2024-11-05.xlsx",
+    "Planilhas/previsoes_PETR3_futuro_2024-11-05.xlsx",
+    "~$data.xlsx",
+    "data.xlsx",
+    "Planilhas/previsoes_PETR3_2024-11-05.xlsx",
+    "Organização/Cronograma.md",
     "Organização/Mapa Mental Canvas.canvas",
     "Textos de Pesquisa/Etapa 2 Coleta e Organização dos Dados.md",
     "Textos de Pesquisa/Etapa 1 Pesquisa e Revisão Bibliográfica.md",
-    "Python/dados_PETR4_2024.09.17.py",
-    "Planilhas/dados_PETR4_2024.09.17.xlsx",
-    "Planilhas/history_PETR4_2024.09.17.xlsx",
-    "Organização/Cronograma.md",
-    "Python/history_PETR4_2024.09.17.py",
-    "Planilhas/~$history_PETR4_2024.09.17.xlsx",
     "Organização/Guia de cores.md",
     "Análises/Script para coleta de dados.md",
-    "Planilhas/~$dados_PETR4_2024.09.17.xlsx",
-    "Python/coleta_dados.py.md",
-    "Planilhas/37B32100",
-    "Planilhas/history_PETR4_2024.09.17.csv",
-    "Python/historico.py",
-    "Python/teste.py"
+    "Python/coleta_dados.py.md"
   ]
 }

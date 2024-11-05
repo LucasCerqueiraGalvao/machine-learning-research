@@ -3,10 +3,10 @@ import yfinance as yf
 import pandas as pd
 
 # Lista de símbolos das empresas no formato B3 (adicionando '.SA' para as ações brasileiras)
-ticker_symbols = ['PETR3.SA', 'PETR4.SA', 'PRIO3.SA', 'ENAT3.SA', 'RRRP3.SA', 'CSAN3.SA', 'VBBR3.SA', 'UGPA3.SA']
+ticker_symbols = ['PETR3.SA', 'PETR4.SA', 'PRIO3.SA', 'BRAV3.SA', 'RRRP3.SA', 'CSAN3.SA', 'VBBR3.SA', 'UGPA3.SA']
 
 # Definir o caminho relativo baseado no diretório atual
-caminho_relativo = os.path.join(os.getcwd(), 'IC-Machine-Learning', 'Planilhas')
+caminho_relativo = os.path.join(os.getcwd(), 'Planilhas')
 
 # Criar o diretório, se não existir (corrigido o parâmetro para exist_ok)
 os.makedirs(caminho_relativo, exist_ok=True)
